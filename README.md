@@ -64,6 +64,13 @@ This dashboard enables you to:
 ✔ See demographic patterns across departments and age groups
 ✔ Understand workforce composition and salary distribution
 
+LINK FOR THE SCREENSHOT OF THE PROJECT PAGE WISE
+
+1. https://github.com/sahil8906/HR-Analytics-Power-BI/blob/main/1.png
+2. https://github.com/sahil8906/HR-Analytics-Power-BI/blob/main/2.png
+3. https://github.com/sahil8906/HR-Analytics-Power-BI/blob/main/3.png
+4. https://github.com/sahil8906/HR-Analytics-Power-BI/blob/main/4.png
+
 📁 Repository Structure
         HR-Analytics-Power-BI/
         
